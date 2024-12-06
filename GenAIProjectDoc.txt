@@ -1,5 +1,0 @@
-05-12-2024
-
-1) prepare a design doc -- Asma
-2) open source LLM need to decide
-3) explore Agentic AI framework
