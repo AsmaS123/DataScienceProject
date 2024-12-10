@@ -8,3 +8,5 @@ pip show llama-index
 pip install virtualenv
 virtualenv myenv
 myenv\Scripts\activate
+
+4) pip install transformers
