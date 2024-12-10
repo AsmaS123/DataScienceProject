@@ -1,6 +1,6 @@
 1) command to install llama-index in your machine
 pip install llama-index
-
+(pip install langchain==0.0.174 llama-index==0.6.9, support for python3.9)
 2) command to test llama-index installed in your machine
 pip show llama-index
 
