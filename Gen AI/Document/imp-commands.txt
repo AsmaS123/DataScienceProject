@@ -4,4 +4,7 @@ pip install llama-index
 2) command to test llama-index installed in your machine
 pip show llama-index
 
-3) 
+3) creating python virtual-env
+pip install virtualenv
+virtualenv myenv
+myenv\Scripts\activate
