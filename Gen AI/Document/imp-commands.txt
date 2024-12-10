@@ -10,3 +10,7 @@ virtualenv myenv
 myenv\Scripts\activate
 
 4) pip install transformers
+
+5) to install PyTorch
+pip install torch
+
