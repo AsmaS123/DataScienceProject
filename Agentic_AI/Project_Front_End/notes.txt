@@ -1,0 +1,11 @@
+"start": "set PORT=5000 && react-scripts start",
+
+npx generate-react-cli component Attendance
+
+
+
+<----- git command ----->
+Create a New Local Branch: 
+Use the git checkout -b command to create and switch to a new branch. For example, to create a branch named feature-branch:
+
+git checkout -b feature-branch
